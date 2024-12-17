@@ -2,6 +2,8 @@ import React, {useState} from 'react';
 
 import {StatusBar} from 'react-native';
 
+import './src/core/fontawesome'
+
 import {SplashScreen} from './src/screens/Splash';
 import {SignInScreen} from './src/screens/SignIn';
 import {SignUpScreen} from './src/screens/SignUp';

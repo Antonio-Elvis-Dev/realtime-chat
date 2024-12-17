@@ -13,8 +13,6 @@ export const SplashScreen = ({navigation}) => {
   },[])
 
 
-
-
   const translateY = new Animated.Value(0)
   const duration = 800
 // TODO: hora 01:03
